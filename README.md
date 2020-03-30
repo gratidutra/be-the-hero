@@ -8,4 +8,4 @@ Semana OmniStack 11
 - SQLite, Knex (criação do banco de dados)
 - React, Axios (criação do frontend)
 - React Native, Expo (versãp mobile - Android)
-- Celebrate/Jest/Supertest(os três para validação/ teste do backend)
+- Celebrate/Jest/Supertest (os três para validação/ teste do backend)
