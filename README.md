@@ -1,7 +1,7 @@
 # be-the-hero
 Semana OmniStack 11
 
-## Objetivo da semana era criar um site de amparo as ongs que auxiliam na recuperação de animais resgatados. Para isso utilizou-se as principais 
+# Objetivo da semana era criar um site de amparo as ongs que auxiliam na recuperação de animais resgatados. Para isso utilizou-se as principais 
 ferramentas da atualidade.
 
 ##
